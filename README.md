@@ -1,1 +1,2 @@
-# receiving_vehicle_Records_update_toKintone
+## 機能
+  
